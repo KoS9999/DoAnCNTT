@@ -1,1 +1,4 @@
 # DoAnCNTT
+Tên SV: Ngô Ngọc Thông
+MSSV: 21110312
+Học lớp: PROJ215879_23_1_10CLC Đồ án CNTT

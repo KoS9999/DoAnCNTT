@@ -90,9 +90,9 @@ namespace QuanLyDiem
 
                 // Cập nhật DataBindings
                 BindDataToControls();
-
                 // Đảm bảo rằng txtGioiTinh không được tự động cập nhật từ nguồn dữ liệu
                 txtGioiTinh.DataBindings.Clear();
+                dateTimeNgaySinh.DataBindings.Clear();
             }
         }
 
